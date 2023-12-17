@@ -5,7 +5,7 @@
 
 
 
-- 🌱 I’m currently learning **Git and Git-Hub**
+- 🌱 I’m currently learning **Flutter**
 
 - 📫 How to reach me **atakulumut@gmail.com**
 
