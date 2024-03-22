@@ -5,10 +5,15 @@
 
 <div align="center">
 
- 🌱 I’m currently learning **Flutter**
+🌱 I’m currently learning **Flutter**
 
- 📫 How to reach me **atakulumut@gmail.com**
+📫 How to reach me **atakulumut@gmail.com**
+
+[<img src="https://img.shields.io/badge/EMail-0078D4.svg?&style=for-the-badge&logo=microsoft%20outlook&logoColor=white" />](mailto:atakulumut@gmail.com)
+
 </div>
+
+
 <h3 align="center">Connect with me:</h3>
 <p align="center">
 <a href="https://codepen.io/umutatakul" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="umutatakul" height="30" width="40" /></a>
